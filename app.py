@@ -107,4 +107,4 @@ if check_password():
             </body>
             </html>
             """
-            , height=2500)
+            , height=2600)
