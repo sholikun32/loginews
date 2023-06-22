@@ -64,7 +64,7 @@ st.set_page_config(
  
 st.markdown("""
 <h1 style='text-align:center;padding: 0px 0px;color:Orange;font-size:400%;'>ONEZERO</h1>
-<h2 style='text-align:center;padding: 0px 0px;color:Black;font-size:150%;'><b>LOGIN</b></h2>
+<h2 style='text-align:center;padding: 0px 0px;color:Black;font-size:150%;'><b></b></h2>
 """, unsafe_allow_html=True)
 
 def check_password():
