@@ -56,7 +56,7 @@ import streamlit.components.v1 as stc
 st.set_option('deprecation.showPyplotGlobalUse', False)
 # Set wide layout
 st.set_page_config(
-    page_title = 'ONEZERO',
+    page_title = 'SMG TOWARDS ZERO TB',
     page_icon = '✅',
     layout = 'wide'
 )
