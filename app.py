@@ -28,7 +28,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction import text
 from sklearn.neighbors import NearestNeighbors
 from sklearn.preprocessing import MinMaxScaler
-from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
