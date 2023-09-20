@@ -6,7 +6,6 @@ sklearn
 plotly
 folium
 streamlit_folium
-wordcloud
 streamlit-option-menu
 opencv-python-headless
 nltk
